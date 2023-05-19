@@ -150,7 +150,7 @@
 /* Large computer screens */
 @media screen and (min-width: 1920px) {
     .intro .intro-img-container {
-        min-width: 100vw;
+        width: 100vw;
     }
 
     .intro .intro-img-container img {
